@@ -1,2 +1,2 @@
 # MianJing
-Keep a record of my interview experience
+Keep a [record](MianJing.md) of my interview experience
